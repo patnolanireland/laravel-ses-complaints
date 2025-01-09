@@ -3,3 +3,12 @@ vendor/
 .phpunit.cache
 .phpunit.result.cache
 composer.lock
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Ctags
+tags
+tags.temp
+tags.lock
