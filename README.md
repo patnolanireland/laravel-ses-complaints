@@ -19,6 +19,7 @@ Before the installation process, please refer to the version mapping table below
 
 | Package Version | Laravel Version |
 |-----------------|-----------------|
+| v2.0.0          | 11              |
 | v1.0.0          | 9 & 10          |
 | v0.0.4          | 9               |
 | v0.0.3          | 9               |
