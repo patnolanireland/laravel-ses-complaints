@@ -21,9 +21,9 @@ class RegisterSubscriptionRequest extends FormRequest
     }
 
     /**
-     * @return array
+     * @return mixed
      */
-    public function data(): array
+    public function data($key = null, $default = null)
     {
         $content = json_decode($this->getContent(), true);
 
